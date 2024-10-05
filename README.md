@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 🙂
 
+- 👋 Hi, I'm Karol Bagiński. I am a student of computer science at Wroclaw University of Technology.
+- 🌱 I’m currently learning .NET/C#
+- 📫 How to reach me: linkedin.com/in/karol-baginski/
+- 👀 I'm intrested in back-end
+- ⚡ Fun fact: I created most of the projects for my own needs and use them on a daily basis.
+
+  
 <!--
 **KarBagi/KarBagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
