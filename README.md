@@ -1,9 +1,10 @@
 ## Hi there 🙂
 
 - 👋 Hi, I'm Karol Bagiński. I am a student of computer science at Wroclaw University of Technology.
+- 🔭 I’m currently working as Junior DevOps Engineer
 - 🌱 I’m currently learning .NET/C#
 - 📫 How to reach me: linkedin.com/in/karol-baginski/
-- 👀 I'm intrested in back-end
+- 👀 I'm intrested in back-end, cloud engineering 
 
   
 <!--
