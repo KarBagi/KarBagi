@@ -1,6 +1,6 @@
 ## Hi there 🙂
 
-- 👋 Hi, I am Karol Baginski. I am a former computer scientist at Wroclaw University of Technology.
+- 👋 Hi, I am Karol Baginski. I am a former student of computer science at Wroclaw University of Technology.
 - 🔭 I’m currently working as Junior DevOps Engineer
 - 🌱 I’m currently learning .NET/C#, AWS, Terraform
 - 📫 How to reach me: linkedin.com/in/karol-baginski/
